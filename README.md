@@ -62,7 +62,7 @@
 <img src="https://github.com/shubham-natekar/Moodle/blob/master/images/upload-user.jpg">
 
 - After uploading users we can create cohorts and assign a role then we can enroll multiple users in the courses and add some restrictions on them.
-<img src="https://github.com/shubham-natekar/Moodle/blob/master/images/cohots.jpg">
+<img src="https://github.com/shubham-natekar/Moodle/blob/master/images/cohorts.jpg">
 
 - We can check the permission of the particular user in `Site administration > Users > Permissions > Check system permissions`.
 
